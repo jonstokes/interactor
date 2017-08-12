@@ -1,14 +1,14 @@
 # encoding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name    = "interactor"
+  spec.name    = "lasershark"
   spec.version = "3.1.0"
 
-  spec.author      = "Collective Idea"
-  spec.email       = "info@collectiveidea.com"
-  spec.description = "Interactor provides a common interface for performing complex user interactions."
+  spec.author      = "Jon Stokes"
+  spec.email       = "jon@collectiveidea.com"
+  spec.description = "Interactor, but with BYO context objects."
   spec.summary     = "Simple interactor implementation"
-  spec.homepage    = "https://github.com/collectiveidea/interactor"
+  spec.homepage    = "https://github.com/jonstokes/lasershark"
   spec.license     = "MIT"
 
   spec.files      = `git ls-files`.split($/)
